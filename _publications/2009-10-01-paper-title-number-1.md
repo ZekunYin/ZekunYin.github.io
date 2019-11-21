@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Computing Platforms for Big Biological Data Analytics: Perspectives and Challenges"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Computational and structural biotechnology journal'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2001037017300351?via%3Dihub'
+citation: 'Yin Z, Lan H, Tan G, et al. Computing Platforms for Big Biological Data Analytics: Perspectives and Challenges[J]. Computational and structural biotechnology journal, 2017: 403-411.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, we survey the state-of-the-art HPC platforms for big biological data analytics. We first list the characteristics of big biological data and popular computing platforms. Then we provide a taxonomy of different biological data analysis applications and a survey of the way they have been mapped onto various computing platforms. After that, we present a case study to compare the efficiency of different computing platforms for handling the classical biological sequence alignment problem. At last we discuss the open issues in big biological data analytics.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S2001037017300351?via%3Dihub)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
