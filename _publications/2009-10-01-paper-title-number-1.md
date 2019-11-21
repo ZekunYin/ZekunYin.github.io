@@ -3,7 +3,7 @@ title: "Computing Platforms for Big Biological Data Analytics: Perspectives and 
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2017
 venue: 'Computational and structural biotechnology journal'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2001037017300351?via%3Dihub'
 citation: 'Yin Z, Lan H, Tan G, et al. Computing Platforms for Big Biological Data Analytics: Perspectives and Challenges[J]. Computational and structural biotechnology journal, 2017: 403-411.'
@@ -12,4 +12,4 @@ In this paper, we survey the state-of-the-art HPC platforms for big biological d
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S2001037017300351?via%3Dihub)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yin Z, Lan H, Tan G, et al. Computing Platforms for Big Biological Data Analytics: Perspectives and Challenges[J]. Computational and structural biotechnology journal, 2017: 403-411.
