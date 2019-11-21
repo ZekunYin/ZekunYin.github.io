@@ -12,4 +12,3 @@ In this paper, we survey the state-of-the-art HPC platforms for big biological d
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S2001037017300351?via%3Dihub)
 
-Recommended citation: Yin Z, Lan H, Tan G, et al. Computing Platforms for Big Biological Data Analytics: Perspectives and Challenges[J]. Computational and structural biotechnology journal, 2017: 403-411.
