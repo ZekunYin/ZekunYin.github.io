@@ -3,7 +3,7 @@ title: "Computing Platforms for Big Biological Data Analytics: Perspectives and 
 collection: publications
 permalink: /publication/2017-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017
+date: 2017-10-1
 venue: 'Computational and structural biotechnology journal'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2001037017300351?via%3Dihub'
 citation: 'Yin Z, Lan H, Tan G, et al. Computing Platforms for Big Biological Data Analytics: Perspectives and Challenges[J]. Computational and structural biotechnology journal, 2017: 403-411.'
